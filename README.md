@@ -3,7 +3,7 @@
 Gogs is a self-hosted Git service written in Go. Alternative to Github.
 - [Gogs website](http://gogs.io)
 
-## Requirements
+## Requirement
 A functional instance of [YunoHost](https://yunohost.org)
 
 ## Installation

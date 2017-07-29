@@ -1,6 +1,0 @@
-language: sh
-install: ""
-script:
-  - git clone https://github.com/YunoHost/CI_package_check
-- sh CI_package_check/build_CI.sh
-- sh CI_package_check/analyseCI.sh "https://github.com/Rafi594/gogs_ynh" "Gogs"
